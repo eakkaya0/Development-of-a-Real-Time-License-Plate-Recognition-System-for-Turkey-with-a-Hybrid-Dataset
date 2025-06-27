@@ -1,0 +1,7 @@
+path: /content/drive/My Drive/Source_Code/datasets
+train: images/train
+val: images/valid
+test: images/test
+names:
+  - number plate
+
