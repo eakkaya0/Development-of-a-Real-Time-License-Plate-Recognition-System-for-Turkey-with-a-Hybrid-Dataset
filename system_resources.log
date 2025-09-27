@@ -1277,3 +1277,120 @@ CPU kullanımı: 7.8%
 Tespit edilen toplam plaka: 5
 Plaka sözlüğü boyutu: 8
 ---------------------------
+
+--- Sistem başlatıldı: 2025-06-30 01:36:55.524963 ---
+GPU kullanımı: Devre dışı
+
+--- Sistem başlatıldı: 2025-08-09 18:22:01.024031 ---
+GPU kullanımı: Devre dışı
+
+--- Sistem başlatıldı: 2025-08-09 20:48:00.333669 ---
+GPU kullanımı: Devre dışı
+E-posta bildirim sistemi: Aktif
+
+--- Sistem başlatıldı: 2025-08-09 20:49:05.945825 ---
+GPU kullanımı: Devre dışı
+E-posta bildirim sistemi: Aktif
+E-posta bildirimi tetiklendi: 34PLT41 - 2025-08-09 20:51:26
+E-posta bildirimi tetiklendi: 16YBS88 - 2025-08-09 20:53:54
+
+--- 2025-08-09 20:54:04.384100 ---
+Çalışma süresi: 0 saat, 5 dakika, 0 saniye
+Bellek kullanımı: 833.80 MB
+CPU kullanımı: 6.2%
+İşlenen toplam kare: 6440
+Tespit edilen toplam plaka: 2
+Plaka sözlüğü boyutu: 5
+---------------------------
+
+--- Sistem başlatıldı: 2025-08-09 21:49:31.657197 ---
+GPU kullanımı: Devre dışı
+E-posta bildirim sistemi: Aktif
+E-posta bildirimi tetiklendi: 35YMN35 - 2025-08-09 21:54:13
+
+--- 2025-08-09 21:54:30.349985 ---
+Çalışma süresi: 0 saat, 5 dakika, 0 saniye
+Bellek kullanımı: 853.25 MB
+CPU kullanımı: 4.7%
+İşlenen toplam kare: 5817
+Tespit edilen toplam plaka: 1
+Plaka sözlüğü boyutu: 3
+---------------------------
+
+--- Sistem başlatıldı: 2025-08-09 22:53:12.344076 ---
+GPU kullanımı: Devre dışı
+E-posta bildirim sistemi: Aktif
+E-posta bildirimi tetiklendi: 34DNG92 - 2025-08-09 22:56:30
+
+--- Sistem başlatıldı: 2025-08-09 22:57:38.256174 ---
+GPU kullanımı: Devre dışı
+E-posta bildirim sistemi: Aktif
+
+--- Sistem başlatıldı: 2025-08-14 21:56:23.208521 ---
+Model yolu: C:\Users\eakkaya\Desktop\Source_Code\models\bestnano3.pt
+GPU kullanımı: Devre dışı
+E-posta bildirim sistemi: Aktif
+
+--- Sistem başlatıldı: 2025-08-14 23:58:21.751727 ---
+Model yolu: C:\Users\eakkaya\Desktop\Source_Code\models/bestnano3.pt
+CSV yolu: C:\Users\eakkaya\Desktop\Source_Code\detected_plates.csv
+GPU kullanımı: Devre dışı
+E-posta bildirim sistemi: Aktif
+E-posta bildirimi tetiklendi: 34DB2323 - 2025-08-14 23:58:48
+
+--- Sistem başlatıldı: 2025-08-15 00:38:39.745940 ---
+Model yolu: C:\Users\eakkaya\Desktop\Source_Code\models/bestnano3.pt
+CSV yolu: C:\Users\eakkaya\Desktop\Source_Code\detected_plates.csv
+GPU kullanımı: Devre dışı
+E-posta bildirim sistemi: Aktif
+E-posta bildirimi tetiklendi: 02ABG585 - 2025-08-15 00:39:00
+
+--- Sistem başlatıldı: 2025-08-15 06:37:41.996950 ---
+Model yolu: C:\Users\eakkaya\Desktop\Source_Code\models/bestnano3.pt
+CSV yolu: C:\Users\eakkaya\Desktop\Source_Code\detected_plates.csv
+GPU kullanımı: Devre dışı
+E-posta bildirim sistemi: Aktif
+
+--- Sistem başlatıldı: 2025-08-15 06:42:04.185833 ---
+Model yolu: C:\Users\eakkaya\Desktop\Source_Code\models/bestnano3.pt
+CSV yolu: C:\Users\eakkaya\Desktop\Source_Code\detected_plates.csv
+GPU kullanımı: Devre dışı
+E-posta bildirim sistemi: Aktif
+
+--- 2025-08-15 06:47:04.172031 ---
+Çalışma süresi: 0 saat, 5 dakika, 0 saniye
+Bellek kullanımı: 1092.36 MB
+CPU kullanımı: 1.6%
+İşlenen toplam kare: 2061
+Tespit edilen toplam plaka: 0
+Plaka sözlüğü boyutu: 3
+CSV dosyası: C:\Users\eakkaya\Desktop\Source_Code\detected_plates.csv
+---------------------------
+
+--- Sistem başlatıldı: 2025-08-15 06:58:12.953808 ---
+Model yolu: C:\Users\eakkaya\Desktop\Source_Code\models/bestnano3.pt
+CSV yolu: C:\Users\eakkaya\Desktop\Source_Code\detected_plates.csv
+GPU kullanımı: Devre dışı
+E-posta bildirim sistemi: Aktif
+E-posta bildirimi başlatıldı: 02ABG585 - 2025-08-15 06:59:15
+
+--- Sistem başlatıldı: 2025-08-15 17:39:37.176353 ---
+Model yolu: C:\Users\eakkaya\Desktop\Source_Code\models/bestnano3.pt
+CSV yolu: C:\Users\eakkaya\Desktop\Source_Code\detected_plates.csv
+GPU kullanımı: Devre dışı
+E-posta bildirim sistemi: Aktif
+E-posta bildirimi başlatıldı: 02ABG585 - 2025-08-15 17:41:24
+
+--- Sistem başlatıldı: 2025-08-15 17:42:07.502415 ---
+Model yolu: C:\Users\eakkaya\Desktop\Source_Code\models/bestnano3.pt
+CSV yolu: C:\Users\eakkaya\Desktop\Source_Code\detected_plates.csv
+GPU kullanımı: Devre dışı
+E-posta bildirim sistemi: Aktif
+E-posta bildirimi başlatıldı: 34ABC34 - 2025-08-15 17:42:54
+
+--- Sistem başlatıldı: 2025-08-15 19:46:46.030583 ---
+Model yolu: C:\Users\eakkaya\Desktop\Source_Code\models/bestnano3.pt
+CSV yolu: C:\Users\eakkaya\Desktop\Source_Code\detected_plates.csv
+GPU kullanımı: Devre dışı
+E-posta bildirim sistemi: Aktif
+E-posta bildirimi başlatıldı: 35EF707 - 2025-08-15 19:49:31
