@@ -1,80 +1,78 @@
- Türkiye Plakaları için Akıllı Tanıma ve E-posta Uyarı Sistemi
+🚗 Türkiye Plakaları için Akıllı Tanıma ve E-posta Uyarı Sistemi
 
-Bu proje, düşük donanım gereksinimleriyle çalışabilen ve Türkiye’ye özgü araç plakalarını tanıyabilen gerçek zamanlı araç plaka tanıma sistemidir. Sistem, özellikle otopark giriş-çıkış kontrolü ve güvenlik alanlarında ekonomik ve erişilebilir bir çözüm sunmayı hedeflemektedir.
+Bu proje, düşük donanım gereksinimleriyle çalışabilen, Türkiye’ye özgü araç plakalarını gerçek zamanlı olarak tanıyabilen bir sistemdir.
+Özellikle otopark giriş-çıkış kontrolü ve güvenlik uygulamaları için ekonomik ve erişilebilir bir çözüm sunmayı hedeflemektedir.
 
-Özellikler
+✨ Özellikler
 
-Kamera aracılığıyla alınan araç görüntülerinden plaka tespiti ve karakter ayrıştırması
+📸 Kamera üzerinden plaka tespiti ve karakter ayrıştırması
 
-Plakaların okunarak veritabanına kaydedilmesi
+🗄️ Tanınan plakaların veritabanına kaydedilmesi
 
-Gerçek zamanlı plaka tanıma ve performans optimizasyonu
+⚡ Gerçek zamanlı plaka tanıma ve performans optimizasyonu
 
-Türkiye plaka formatına özgü özel kurallar
+🇹🇷 Türkiye plaka formatına özel kurallar
 
-CPU ve GPU uyumlu çalışabilme
+🖥️ CPU ve GPU uyumlu çalışma desteği
 
-E-mail bildirim sistemi: Plaka tanındığında otopark sahibine araç bilgisi e-posta olarak gönderilir
+📧 E-mail bildirim sistemi → Plaka tanındığında otopark sahibine araç bilgisi otomatik olarak gönderilir
 
-Kullanılan Teknolojiler
+🛠️ Kullanılan Teknolojiler
 
 Python
 
-Veri etiketleme: Label Studio
+Veri Etiketleme: Label Studio
 
-Ön işleme: Scikit-learn
+Ön İşleme: Scikit-learn
 
-Nesne tespiti: YOLOv8 (YOLOv8s ve YOLOv8nano)
+Nesne Tespiti: YOLOv8 (YOLOv8s & YOLOv8nano)
 
-Görüntü işleme: OpenCV
+Görüntü İşleme: OpenCV
 
-Plaka okuma: EasyOCR
+Plaka Okuma: EasyOCR
 
-Arayüz geliştirme: Tkinter
+Arayüz Geliştirme: Tkinter
 
 Veritabanı: SQLite
 
-Veri Seti ve Eğitim
+📊 Veri Seti ve Eğitim
 
-Başlangıçta 2500 araç görüntüsünden oluşan hibrit veri seti oluşturulmuştur.
+Başlangıçta 2500 araç görüntüsünden oluşan hibrit veri seti oluşturuldu.
 
-YOLOv8s modeli Google Colab üzerinde eğitilmiştir.
+YOLOv8s modeli Google Colab üzerinde eğitildi.
 
-Performans ve okuma sorunları nedeniyle YOLOv8nano modeline geçilmiş, data augmentation ile veri seti 3800 örneğe çıkarılmıştır.
+Performans sorunları nedeniyle YOLOv8nano modeline geçildi.
 
-Optimizasyon Teknikleri
+Data augmentation ile veri seti 3800 örneğe çıkarıldı.
 
-Kare atlama mekanizması
+⚡ Optimizasyon Teknikleri
 
-Dinamik bellek yönetimi
+🔄 Kare atlama mekanizması
 
-Adaptif histogram eşitleme
+🧠 Dinamik bellek yönetimi
 
-Türkiye plaka formatına özel kurallar
+🌌 Adaptif histogram eşitleme
 
-Kurulum ve Çalıştırma
-
-Python 3.x sürümü yüklü olmalıdır.
-
-Gerekli kütüphaneler kurulmalıdır:
-
-pip install opencv-python easyocr scikit-learn ultralytics tkinter sqlite3
+🇹🇷 Türkiye plaka formatına özel kurallar
 
 
-Sistemi başlatmak için:
 
-python main.py
 
-E-mail Bildirimi Ayarları
+📧 E-mail Bildirimi Ayarları
 
-E-mail bildirimleri için SMTP ayarlarını config.py dosyasında yapabilirsiniz.
+E-mail bildirimleri için SMTP ayarlarını config.py dosyasında düzenleyebilirsiniz.
 
-Plaka tanındığında sistem otomatik olarak tanınan araç bilgilerini otopark sahibine gönderir.
+Plaka tanındığında, sistem otomatik olarak araç bilgilerini e-posta ile otopark sahibine gönderir.
 
-Lisans
+📄 Lisans
 
 Bu proje MIT Lisansı ile lisanslanmıştır.
 
 
-
 ![photo_2025-06-28_17-58-09](https://github.com/user-attachments/assets/a3d2d2bc-b8fb-496b-8ce8-718f70ab87b0)
+
+<img width="1906" height="981" alt="Ekran görüntüsü 2025-09-27 135359" src="https://github.com/user-attachments/assets/1534c1db-9161-4ec5-9eba-dfbc8b3c81f1" />
+
+![WhatsApp Görsel 2025-09-27 saat 14 06 09_3c340923](https://github.com/user-attachments/assets/2753bbcc-d3ec-40d1-bb40-5a5032c6f1fb)
+
+
